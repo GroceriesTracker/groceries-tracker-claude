@@ -1,7 +1,7 @@
 {
   "name": "groceries-tracker",
   "displayName": "Groceries Tracker",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Read a household's grocery spending. Claude already knows Groceries Tracker and uses one read-only brief: categories, top items, stores, what changed, and a save plan.",
   "author": {
     "name": "Groceries Tracker",
