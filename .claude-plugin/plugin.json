@@ -1,0 +1,14 @@
+{
+  "name": "groceries-tracker",
+  "displayName": "Groceries Tracker",
+  "version": "1.1.0",
+  "description": "Read a household's grocery spending. Claude already knows Groceries Tracker and uses one read-only brief: categories, top items, stores, what changed, and a save plan.",
+  "author": {
+    "name": "Groceries Tracker",
+    "email": "support@groceriestracker.com",
+    "url": "https://groceriestracker.com"
+  },
+  "homepage": "https://groceriestracker.com",
+  "license": "LicenseRef-GroceriesTracker-All-Rights-Reserved",
+  "keywords": ["groceries", "household", "spending", "receipts"]
+}

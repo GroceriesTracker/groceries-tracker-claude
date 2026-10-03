@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "groceries-tracker": {
+      "type": "http",
+      "url": "https://api.groceriestracker.com/assistant/mcp",
+      "oauth": true
+    }
+  }
+}
